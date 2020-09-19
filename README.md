@@ -6,7 +6,7 @@
 2. Testing repo
     - be patient and wait until I finish the repo
 ## By the way this is how you add an img to README
-* <p>[Doctor Stone](/srcs/stone.jpg)</p>
+* <p>![Doctor Stone](/srcs/stone.jpg)</p>
 ![Doctor Stone](/srcs/stone.jpg)
 
 ## resource
